@@ -158,7 +158,7 @@ def main():
         # Display the Lottie animation in the container
         st_lottie(
             lottie_animation_home,
-            speed=10,
+            speed=1,
             width=400,
             height=400,
             key="lottie_animation_home"
@@ -171,7 +171,7 @@ def main():
         # Display the Lottie animation in the container
         st_lottie(
             lottie_animation_resume,
-            speed=10,
+            speed=1,
             width=200,
             height=200,
             key="lottie_animation_resume"
@@ -209,7 +209,7 @@ def main():
         # Display the Lottie animation in the container
         st_lottie(
             lottie_animation_cover_letter,
-            speed=10,
+            speed=1,
             width=200,
             height=200,
             key="lottie_animation_cover_letter"
@@ -242,7 +242,7 @@ def main():
         # Display the Lottie animation in the container
         st_lottie(
             lottie_animation_interview,
-            speed=10,
+            speed=1,
             width=300,
             height=300,
             key="lottie_animation_interview"
