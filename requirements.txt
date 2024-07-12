@@ -5,3 +5,6 @@ streamlit==1.10.0
 google-generativeai
 streamlit-lottie
 requests
+fpdf
+fpdf==1.7.2
+
