@@ -8,8 +8,7 @@ from streamlit_lottie import st_lottie
 import streamlit as st
 
 
-import base64
-from fpdf import FPDF
+
 
 page_bg_img = f"""
 <style>
