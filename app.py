@@ -149,7 +149,7 @@ def main():
     option = st.sidebar.selectbox("Go to", ["Home", "Generate Resume", "Generate Cover Letter", "Generate Interview Questions"])
 
     if option == "Home":
-        st.title("Welcome to the Resume Generator Home Page")
+        st.title("Welcome to the  Home Page")
         st.write("This application helps you generate resumes, cover letters, and interview preparation questions.")
         st.write("Use the navigation on the left to select an option.")
         lottie_animation_home = "https://lottie.host/3deadefe-46cc-4ce5-98b7-722540b538d2/lRl6yc50pf.json"
